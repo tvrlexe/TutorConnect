@@ -34,25 +34,13 @@
 University students often struggle with difficult courses but cannot afford professional tutors. At the same time, high-performing students have knowledge to share but no platform to connect with peers who need help.
 
 ### Our Solution:
-**TutorConnect** bridges this gap by creating a campus-based peer tutoring marketplace where:
-
-- **Students** can search for tutors by subject, view ratings, check availability, and book affordable sessions
-- **Tutors** can create profiles, set their hourly rates, manage availability, and earn money
-- **Both** benefit from a safe, verified platform designed specifically for university students
 
 
+## Key Features
 
 
 
 ## 🛠️ Tools Used
 
-| Tool | Purpose | Evidence Location |
-|:---|:---|:---|
-| **GitHub** | Version control & documentation | This repository! |
-| **Jira** | Sprint planning, user stories, task tracking | `/planning/jira_screenshots/` |
-| **Microsoft Word** | Requirements documentation | `/planning/*.docx` |
-| **Lucidchart/Draw.io** | UML diagrams (Use Case, Class, Activity) | `/design/` |
-| **Figma** | Wireframes, mockups, clickable prototype | `/design/mockups/` |
 
----
 
