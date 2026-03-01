@@ -40,14 +40,7 @@ University students often struggle with difficult courses but cannot afford prof
 - **Tutors** can create profiles, set their hourly rates, manage availability, and earn money
 - **Both** benefit from a safe, verified platform designed specifically for university students
 
-### Key Features:
-- 🔍 Smart tutor matching based on subject and availability
-- 💰 Affordable peer-to-peer pricing
-- ⭐ Rating and review system
-- 📅 Calendar-based booking
-- 💬 In-app messaging
-- 🎁 Reward points for active students
-- 👥 Group session booking (split costs!)
+
 
 
 
