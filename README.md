@@ -6,13 +6,13 @@
 
 ## 📚 Project Overview
 
-**TutorConnect** is a web-based platform that connects university students who need academic help with high-performing student tutors. It creates a trusted, campus-based peer tutoring marketplace that makes quality education accessible and affordable for all students.
+**TutorConnect** is a web-based application that connects students in need of tutoring with high perforping students. This project emphasizes peer collaboration through an Agile Process.
 
 ### Who It Helps:
-- **Students struggling with courses** - Find affordable peer tutors in their university
-- **High-performing students** - Earn money while helping peers succeed
+- **Students struggling with courses** - Find affordable tutors that are aware of student's struggles
+- **High-performing students** - Earn money by helping peers succeed
 - **International students** - Get extra academic support when needed
-- **Exam preparers** - Find subject-specific help during exam season
+- **Exam preparers** - Get experiences of students who already went through the same exams
 
 ---
 
@@ -49,41 +49,7 @@ University students often struggle with difficult courses but cannot afford prof
 - 🎁 Reward points for active students
 - 👥 Group session booking (split costs!)
 
----
 
-## 🔄 SDLC Overview - Our Agile Journey
-
-### Sprint 1 (Days 1-4): Foundation & Core Features
-**Goal:** Establish project foundation and create initial designs
-
-| Phase | Activities | Deliverables |
-|:---|:---|:---|
-| **Planning** | Product vision, requirements gathering, backlog creation | `planning/product_vision.md` |
-| **Analysis** | User stories, functional/non-functional requirements | `planning/requirements_sprint1.md` |
-| **Design** | Use Case diagram, Class diagram, wireframes | `design/use_case_diagram_v1.png` |
-| **Prototyping** | Low-fidelity prototype | `final/prototype_v1_screenshots/` |
-
-### Sprint 2 (Days 5-8): Enhanced Features & Testing
-**Goal:** Add TutorHive-inspired features and conduct user testing
-
-| Phase | Activities | Deliverables |
-|:---|:---|:---|
-| **Planning** | Sprint planning, backlog refinement | `planning/sprint2/sprint2_planning.md` |
-| **Analysis** | Updated requirements (matching algorithm, rewards, groups) | `planning/requirements_sprint2.md` |
-| **Design** | Updated diagrams, activity diagrams, high-fidelity mockups | `design/mockups/` |
-| **Testing** | Test cases, user testing, feedback collection | `testing/user_feedback_sprint2.md` |
-
-### Sprint 3 (Days 9-12): Finalization & Submission
-**Goal:** Complete all deliverables and prepare final submission
-
-| Phase | Activities | Deliverables |
-|:---|:---|:---|
-| **Planning** | Final sprint planning, task assignment | `planning/sprint3/sprint3_planning.md` |
-| **Design** | Final diagrams, complete prototype | `design/final_diagrams/` |
-| **Testing** | Final testing, bug fixes | `testing/final_test_report.md` |
-| **Deployment** | Final prototype screenshots, presentation | `final/` |
-
----
 
 ## 🛠️ Tools Used
 
