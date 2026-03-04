@@ -20,12 +20,11 @@
 
 | Name | Role | Responsibilities |
 |:---|:---|:---|
-| **Sidy Ahmad Ndiaye** | Group Leader / GitHub Manager | <ul><li>Repository setup - [ ], README - [ ], documentation - 
-[ ], presentation coordination - [ ]</li></ul> |
-| **Manjarul Jihad** | Business Analyst | Requirements gathering - [ ], user stories - [ ], product backlog - [ ] |
-| **Meygan Mageswaran** | System Designer | Use Case diagrams - [ ], Class diagrams - [ ], system design - [ ] |
-| **Ammar Yasir** (**supported by Meygan Mageswaran and Sidy Ahmad Ndiaye**)| UI/UX Designer | Wireframes - [ ], mockups - [ ], Figma prototype - [ ] | 
-| **Hongseng Chan** | Tester/QA | Test cases - [ ], user testing - [ ], feedback collection - [ ] |
+| **Sidy Ahmad Ndiaye** | Group Leader / GitHub Manager | <ul><li>- [ ] Repository setup</li><li>- [ ] README</li><li>- [ ] documentation</li><li>- [ ] presentation coordination</li></ul> |
+| **Manjarul Jihad** | Business Analyst | <ul><li>- [ ] Requirements gathering</li><li>- [ ] User stories</li><li>- [ ] Product backlog</li> |
+| **Meygan Mageswaran** | System Designer | <ul><li>- [ ] Use Case diagrams</li><li>- [ ] Class diagrams</li><li>- [ ] System design</li></ul> |
+| **Ammar Yasir** (**supported by Meygan Mageswaran and Sidy Ahmad Ndiaye**)| UI/UX Designer |<ul><li>- [ ] Wireframes</li><li>- [ ] Mockups</li><li>- [ ]  Figma prototype</li> |
+| **Hongseng Chan** | Tester/QA | <ul><li>- [ ] Test cases</li><li>- [ ] User testing</li><li>- [ ] Feedback collection</li> |
 
 ---
 
