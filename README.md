@@ -20,9 +20,9 @@
 
 | Name | Role | Responsibilities |
 |:---|:---|:---|
-| **Sidy Ahmad Ndiaye** | Group Leader / GitHub Manager | <ul><li>- [ ] Repository setup</li><li>- [ ] README</li><li>- [ ] documentation</li><li>- [ ] presentation coordination</li></ul> |
+| **Sidy Ahmad Ndiaye** | Group Leader / GitHub Manager | <ul><li>- [x] Repository setup</li><li>- [x] README</li><li>- [x] documentation</li><li>- [x] presentation coordination</li></ul> |
 | **Manjarul Jihad** | Business Analyst | <ul><li>- [x] Requirements gathering</li><li>- [x] User stories</li><li>- [x] Product backlog</li> |
-| **Meygan Mageswaran** | System Designer | <ul><li>- [x] Use Case diagrams</li><li>- [ ] Class diagrams</li><li>- [ ] System design</li></ul> |
+| **Meygan Mageswaran** | System Designer | <ul><li>- [x] Use Case diagrams</li><li>- [x] Class diagrams</li><li>- [x] System design</li></ul> |
 | **Ammar Yasir** (**supported by Meygan Mageswaran and Sidy Ahmad Ndiaye**)| UI/UX Designer |<ul><li>- [x] Wireframes</li><li>- [ ] Mockups</li><li>- [x]  Figma prototype</li> |
 | **Hongseng Chan** | Tester/QA | <ul><li>- [ ] Test cases</li><li>- [ ] User testing</li><li>- [ ] Feedback collection</li> |
 
