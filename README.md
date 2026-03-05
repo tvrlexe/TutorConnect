@@ -23,7 +23,7 @@
 | **Sidy Ahmad Ndiaye** | Scrum Master / GitHub Manager/ Trello Manager/UI Designer | <ul><li>- [x] Repository setup</li><li>- [x] wireframes and mockup </li><li>- [x] presentation coordination</li></ul> |
 | **Manjarul Islam Jihad** | Business Analyst | <ul><li>- [x] Requirements gathering</li><li>- [x] User stories</li><li>- [x] Product backlog</li><li>- [x] Use case diagrams</li></ul> |
 | **Meygan A/L K Mageswaran** (**supported by Amar Yasir**) | System Designer | <ul><li>- [x] Class diagrams</li><li>- [x] Sequence diagrams</li></ul> |
-| **Ammar Yasir(**supported by Sidy Ahmad Ndiaye**)**| UI/UX Designer |<ul><li>- [x] Class Diagram</li><li>- [x] Mockups</li><li>- [x]  Figma prototype</li> |
+| **Ammar Yasir(**supported by Sidy Ahmad Ndiaye**)**| UI/UX Designer |<ul><li>- [x] Entity relationship diagram</li><li>- [x] Mockups</li><li>- [x]  Figma prototype</li> |
 | **Hongseng Chan** | Tester/QA | <ul><li>- [ ] Test cases</li><li>- [ ] User Acceptance testing</li><li>- [ ] Feedback collection</li> |
 
 ---
