@@ -20,11 +20,11 @@
 
 | Name | Role | Responsibilities |
 |:---|:---|:---|
-| **Sidy Ahmad Ndiaye** | Group Leader / GitHub Manager | <ul><li>- [x] Repository setup</li><li>- [x] README</li><li>- [x] documentation</li><li>- [x] presentation coordination</li></ul> |
-| **Manjarul Islam Jihad** | Business Analyst | <ul><li>- [x] Requirements gathering</li><li>- [x] User stories</li><li>- [x] Product backlog</li> |
-| **Meygan A/L K Mageswaran** (**supported by Manjarul Islam Jihad**) | System Designer | <ul><li>- [x] Use Case diagrams</li><li>- [x] Class diagrams</li><li>- [x] System design</li></ul> |
-| **Ammar Yasir** (**supported by Meygan Mageswaran and Sidy Ahmad Ndiaye**)| UI/UX Designer |<ul><li>- [x] Wireframes</li><li>- [ ] Mockups</li><li>- [x]  Figma prototype</li> |
-| **Hongseng Chan** | Tester/QA | <ul><li>- [ ] Test cases</li><li>- [ ] User testing</li><li>- [ ] Feedback collection</li> |
+| **Sidy Ahmad Ndiaye** | Scrum Master / GitHub Manager/ Trello Manager/UI Designer | <ul><li>- [x] Repository setup</li><li>- [x] wireframes and mockup </li><li>- [x] presentation coordination</li></ul> |
+| **Manjarul Islam Jihad** | Business Analyst | <ul><li>- [x] Requirements gathering</li><li>- [x] User stories</li><li>- [x] Product backlog</li>- [x] Use case diagrams</li></ul> |
+| **Meygan A/L K Mageswaran** (**supported by Amar Yasir**) | System Designer | <ul><li><li>- [x] Class diagrams</li><li>- [x] System design</li></ul> |
+| **Ammar Yasir(**supported by Sidy Ahmad Ndiaye**)**| UI/UX Designer |<ul><li>- [x] Class Diagram- [x] Mockups</li><li>- [x]  Figma prototype</li> |
+| **Hongseng Chan** | Tester/QA | <ul><li>- [ ] Test cases</li><li>- [ ] User Acceptance testing</li><li>- [ ] Feedback collection</li> |
 
 ---
 
