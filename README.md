@@ -1,46 +1,53 @@
-# TutorConnect - Peer Tutoring Platform
-
-## SDG 4: Quality Education
-
----
-
-## 📚 Project Overview
-
-**TutorConnect** is a web-based application that connects students in need of tutoring with high perforping students. This project emphasizes peer collaboration through an Agile Process.
-
-### Who It Helps:
-- **Students struggling with courses** - Find affordable tutors that are aware of student's struggles
-- **High-performing students** - Earn money by helping peers succeed
-- **International students** - Get extra academic support when needed
-- **Exam preparers** - Get experiences of students who already went through the same exams
+# TutoConnect — Peer Tutoring Marketplace Platform
+**SDG 4 — Quality Education** | ITS 610204/ITS 64604 Principles of Software Engineering | Section 7 · Group 4
 
 ---
 
-## 👥 Team Members
+## Project Title & SDG
 
-| Name | Role | Responsibilities |
-|:---|:---|:---|
-| **Sidy Ahmad Ndiaye** | Scrum Master / GitHub Manager/ Trello Manager/UI Designer | <ul><li>- [x] Repository setup</li><li>- [x] wireframes and mockup </li><li>- [x] presentation coordination</li></ul> |
-| **Manjarul Islam Jihad** | Business Analyst | <ul><li>- [x] Requirements gathering</li><li>- [x] User stories</li><li>- [x] Product backlog</li><li>- [x] Use case diagrams</li></ul> |
-| **Meygan A/L K Mageswaran** (**supported by Amar Yasir**) | System Designer | <ul><li>- [x] Class diagrams</li><li>- [x] Sequence diagrams</li></ul> |
-| **Ammar Yasir(**supported by Sidy Ahmad Ndiaye**)**| UI/UX Designer |<ul><li>- [x] Entity relationship diagram</li><li>- [x] Mockups</li><li>- [x]  Figma prototype</li> |
-| **Hongseng Chan** | Tester/QA | <ul><li>- [ ] Test cases</li><li>- [ ] User Acceptance testing</li><li>- [ ] Feedback collection</li> |
+TutoConnect is a web-based peer tutoring marketplace that connects university students with qualified tutors for 1-on-1 and group learning sessions. The platform supports **SDG 4 — Quality Education** by improving access to affordable, flexible academic support.
 
 ---
 
-## 🎯 Project Description
+## Team Members
 
-### The Problem:
-University students often struggle with difficult courses but cannot afford professional tutors. At the same time, high-performing students have knowledge to share but no platform to connect with peers who need help.
+| Name | Role & Responsibilities |
+|---|---|
+| Chan Hong Sen | Group Leader · Testing & Evaluation |
+| Sidy Ahmad Ndiaye | Scrum Master · GitHub & Trello Manager · Wireframes & Mockups · Prototype |
+| Jihad | Sprint Planning · User Backlog · Use Cases · Low-Fidelity Wireframes · Problem Statement |
+| Meygan | Sequence Diagrams · Class Diagram · ERD |
+| Amar | Prototypes · Sequence Diagrams Support |
+| Dhruv | Problem Statement · SDG Research |
 
-### Our Solution:
+---
 
+## Project Description
 
-## Key Features
+Many university students struggle to find affordable tutoring support outside of class. TutoConnect solves this by providing a structured digital marketplace where students can search for tutors by subject, language and price, book sessions, pay securely and leave reviews. Tutors manage their availability, sessions and earnings through a dedicated dashboard. Admins oversee the platform through a management panel covering user management, payment monitoring and content moderation.
 
+---
 
+## Overview of SDLC Work
 
-## 🛠️ Tools Used
+The project was planned and executed using Agile and Scrum methodology across three sprints. Trello was used for sprint backlog and task management. GitHub was used for version control with regular commits reflecting real progress.
 
+**Sprint 1 — Authentication & Search**
+Planning and requirements gathering, use case diagrams, low-fidelity wireframes, and interactive mockups covering user registration, login, OTP password recovery and tutor search with filters.
 
+**Sprint 2 — Dashboards, Profiles & Settings**
+Design and implementation of role-based dashboards for Students, Tutors and Admins. Profile editing, availability management, settings panel and admin user management. Class diagram and ERD produced.
 
+**Sprint 3 — Communication, Booking & Payments**
+Full transactional layer including in-app messaging, 1-on-1 and group session booking, payment processing, invoice generation, review and rating system, and admin moderation and analytics tools. UAT testing conducted with feedback collected via Google Forms.
+
+---
+
+## Repository Structure
+
+```
+/planning/   — project plan, Trello links, requirements, sprint notes
+/design/     — use case & class diagrams, wireframes, mockups, ERD
+/testing/    — test plans, UAT results, user feedback
+/final/      — final prototype screenshots, summary of results
+```
